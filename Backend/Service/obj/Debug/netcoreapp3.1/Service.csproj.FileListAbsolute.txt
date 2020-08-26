@@ -1,0 +1,17 @@
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Adelyn\source\repos\ApiSolvex\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
+C:\Users\Adelyn\source\repos\ApiSolvex\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
